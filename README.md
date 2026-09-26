@@ -2,7 +2,7 @@
 🚀 **Software Engineer** | 💻 **Full-Stack Developer**
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Nabanji&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=StanMbatia&color=blue)
 
 
 ### 👨‍💻 About Me  
